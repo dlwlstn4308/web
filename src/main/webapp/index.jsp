@@ -28,6 +28,20 @@
 </style>
 </head>
 <body>
-<h1>Virtual Tomcat Test</h1>
+<h1 id="tomcat">Virtual Tomcat Test</h1>
+
+
+<script type="text/javascript">
+   tomcat.onclick = function() {
+	   alert("tomcat click..");	   	   
+   };
+ 
+</script>
+<ol>
+	<li><a href="map/map2.jsp">map2.jsp</a></li>
+	<li></li>
+	<li></li>
+	<li></li>
+</ol>    
 </body>
 </html>
